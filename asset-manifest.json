@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mock-public/static/css/main.f855e6bc.css",
+    "main.js": "/mock-public/static/js/main.195a3ffc.js",
+    "static/js/453.ed3810f9.chunk.js": "/mock-public/static/js/453.ed3810f9.chunk.js",
+    "static/media/logo.svg": "/mock-public/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mock-public/index.html",
+    "main.f855e6bc.css.map": "/mock-public/static/css/main.f855e6bc.css.map",
+    "main.195a3ffc.js.map": "/mock-public/static/js/main.195a3ffc.js.map",
+    "453.ed3810f9.chunk.js.map": "/mock-public/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.195a3ffc.js"
+  ]
+}
